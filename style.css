@@ -1,0 +1,40 @@
+
+.Awesomeness{
+    display: flex;
+    justify-content: center;
+    
+}
+.section3{
+    display: flex;
+    justify-content:center;
+}
+.screen{
+    display: flex;
+    padding: 10px;
+    
+}
+.sren-1{
+    margin: 30px;
+}
+.section-4 .partie1{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+.item0001{
+    padding: 80px;
+}
+.gris{
+    background-color:#ababab;
+}
+.blanc{
+    background-color: #ffff;
+}
+.monde{
+    background-image: url(/img/map_bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+footer{
+    padding: 30px;
+}
